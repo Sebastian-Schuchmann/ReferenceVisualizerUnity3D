@@ -1,5 +1,5 @@
 # Reference Visualizer for Unity3D
-An Editor Windows that lets you see and edit all references of your Scene Objects.
+An Editor Window that lets you see and edit all references of your Scene Objects.
 
 ![Showcase](https://github.com/Sebastian-Schuchmann/ReferenceVisualizerUnity3D/blob/master/ReadmePhotos/Showcase.png?raw=true)
 
